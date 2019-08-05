@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/GitSession.dir/main.cpp.obj"
+  "CMakeFiles/GitSession.dir/test.cpp.obj"
   "GitSession.pdb"
   "GitSession.exe"
   "GitSession.exe.manifest"

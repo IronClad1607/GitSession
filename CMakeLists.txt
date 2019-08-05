@@ -3,4 +3,4 @@ project(GitSession)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(GitSession main.cpp)
+add_executable(GitSession main.cpp test.cpp)

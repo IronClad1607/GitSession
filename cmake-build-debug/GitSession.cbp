@@ -83,6 +83,9 @@
 		<Unit filename="D:/Ishaan&apos;s Folder/GitSession/main.cpp">
 			<Option target="GitSession"/>
 		</Unit>
+		<Unit filename="D:/Ishaan&apos;s Folder/GitSession/test.cpp">
+			<Option target="GitSession"/>
+		</Unit>
 		<Unit filename="D:/Ishaan&apos;s Folder/GitSession/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
